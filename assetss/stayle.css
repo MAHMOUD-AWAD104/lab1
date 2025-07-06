@@ -1,3 +1,7 @@
 h1{
-    color: blueviolet;
+    color: rgb(241, 2, 2);
+}
+
+button:hover{
+    background-color: blueviolet;
 }

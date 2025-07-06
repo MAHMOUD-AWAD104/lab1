@@ -1,3 +1,3 @@
-function showAlert(e){
+function showAlert(){
     alert("clicked")
 }
